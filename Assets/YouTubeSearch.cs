@@ -16,7 +16,7 @@ public class Question {
 public class YouTubeSearch : MonoBehaviour
 {
     const string baseURL = "https://www.googleapis.com/youtube/v3";
-    public string apiKey = "AIzaSyA6PUfGOuecty0nxJNBC3xGDg-8EUM6waE";
+    public string apiKey = "";
     private string pageToken = "";
     public string keywordPlaceholder = "ひろゆき+";
     public string keywords = "360+VR";
