@@ -4,10 +4,10 @@ UnityGenerated/
 Library/
 hiroyukisim/
 
-Assets/AssetStoreOriginals/
-Assets/Plawius-NonConvexCollider/
-Assets/WebGLNativeInputField/
-"Assets/Shift - Complete Sci-Fi UI/"
+Assets/AssetStoreOriginals
+Assets/Plawius-NonConvexCollider
+Assets/WebGLNativeInputField
+Assets/Shift*-*Complete*Sci-Fi*UI
 
 
 ExportedObj/
